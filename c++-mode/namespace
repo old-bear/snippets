@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: namespace
+# key: nss
+# --
+namespace ${1:ns} {
+       
+`yas/selected-text`
+
+} // namespace $1
