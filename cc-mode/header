@@ -1,0 +1,9 @@
+#name : // File Header
+# --
+// Author: Rujie,Jiang `(substring user-mail-address 0)`
+// Date: `(current-time-string)`
+//
+// File: `(file-name-nondirectory (buffer-file-name))`
+// Description:
+
+$0
