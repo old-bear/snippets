@@ -1,6 +1,7 @@
-#name : do { ... } while (...)
-# key: do
+# -*- mode: snippet -*-
+# name : do { ... } while (...)
+# key: cdo
 # --
 do {
   $0
-} while (${1:condition});
+} while ();

@@ -1,8 +1,6 @@
 # -*- mode: snippet -*-
 # name: operator!=
-# key: !=
+# key: op!=
 # group: operator overloading
 # --
-bool ${1:MyClass}::operator!=(const $1 &other) const {
-    return !(*this == other);
-}
+bool ${2:$1::}operator!=(const ${1:MyClass}& rhs) const$0

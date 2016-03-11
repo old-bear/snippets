@@ -1,5 +1,6 @@
-#name : struct ... { ... }
-# key: struct
+# -*- mode: snippet -*-
+# name : struct ... { ... }
+# key: cstruct
 # --
 struct ${1:name} {
   $0
