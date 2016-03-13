@@ -5,7 +5,7 @@
 // Baidu RPC - A framework to host and access services throughout Baidu.
 // Copyright (c) 2016 Baidu.com, Inc. All Rights Reserved
 //
-// Author: Rujie,Jiang `(substring user-mail-address 0)`
+// Author: Rujie Jiang `(substring user-mail-address 0)`
 // Date: `(current-time-string)`
 
 $0

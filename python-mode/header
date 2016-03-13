@@ -3,9 +3,9 @@
 # key: header
 # binding: direct-keybinding
 # --
-#!/usr/bin/python
+#!/usr/bin/env python
 ###################################################################
-# Author: Rujie, Jiang `(substring user-mail-address 0)`
+# Author: Rujie Jiang `(substring user-mail-address 0)`
 # Date: `(current-time-string)`
 # File: `(file-name-nondirectory (buffer-file-name))`
 #
