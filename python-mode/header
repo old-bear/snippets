@@ -3,13 +3,8 @@
 # key: header
 # binding: direct-keybinding
 # --
-#!/usr/bin/env python
-###################################################################
+#!/usr/bin/env python3
 # Author: Rujie Jiang `(substring user-mail-address 0)`
 # Date: `(current-time-string)`
-# File: `(file-name-nondirectory (buffer-file-name))`
-#
-# Description: 
-###################################################################
 
 $0

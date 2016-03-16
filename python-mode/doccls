@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: doc class
+# key: doccls
+# --
+"""${1:Class Summary}
+
+$0Longer information...
+
+Attriubutes:
+"""

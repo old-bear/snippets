@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: doc function
+# key: docfunc
+# --
+"""${1:Function Summary}
+
+$0Longer information...
+
+Args:
+
+Returns:
+"""
